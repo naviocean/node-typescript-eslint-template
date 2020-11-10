@@ -1,8 +1,10 @@
 ## node-typescript-eslint-template
 
-![build status](https://github.com/nihalgonsalves/node-typescript-eslint-template/workflows/build/badge.svg)
-![last commit](https://img.shields.io/github/last-commit/nihalgonsalves/node-typescript-eslint-template)
-![license UNLICENSE](https://img.shields.io/github/license/nihalgonsalves/node-typescript-eslint-template?color=brightgreen)
+![build status](https://github.com/naviocean/node-typescript-eslint-template/workflows/build/badge.svg)
+![last commit](https://img.shields.io/github/last-commit/naviocean/node-typescript-eslint-template)
+![license UNLICENSE](https://img.shields.io/github/license/naviocean/node-typescript-eslint-template?color=brightgreen)
+
+This repository is based on (node-typescript-eslint-template)[https://github.com/nihalgonsalves/node-typescript-eslint-template.git]
 
 TypeScript template repository with typescript-eslint (airbnb config) and ts-node-dev.
 
