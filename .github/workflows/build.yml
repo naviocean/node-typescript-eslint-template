@@ -22,4 +22,4 @@ jobs:
           tags: latest
           push: false
       - name: Run image
-        run: docker run naviocean/node-typescript-eslint-template
+        run: docker run naviocean/node-typescript-eslint-template:1.0
