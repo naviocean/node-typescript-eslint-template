@@ -4,7 +4,7 @@
 ![last commit](https://img.shields.io/github/last-commit/naviocean/node-typescript-eslint-template)
 ![license UNLICENSE](https://img.shields.io/github/license/naviocean/node-typescript-eslint-template?color=brightgreen)
 
-This repository is based on (node-typescript-eslint-template)[https://github.com/nihalgonsalves/node-typescript-eslint-template.git]
+This repository is based on (https://github.com/nihalgonsalves/node-typescript-eslint-template.git)[node-typescript-eslint-template]
 
 TypeScript template repository with typescript-eslint (airbnb config) and ts-node-dev.
 
