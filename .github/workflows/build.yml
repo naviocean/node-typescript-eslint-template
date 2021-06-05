@@ -31,7 +31,7 @@ jobs:
           context: .
           tags: naviocean/node-typescript-eslint-template:latest
           load: true
-      - name: Push Docker
-        run: docker push naviocean/node-typescript-eslint-template:latest
+#       - name: Push Docker
+#         run: docker push naviocean/node-typescript-eslint-template:latest
       - name: Run image
         run: docker run naviocean/node-typescript-eslint-template
