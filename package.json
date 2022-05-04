@@ -1,7 +1,7 @@
 {
     "name": "node-typescript-eslint-template",
     "description": "",
-    "version": "0.1.1",
+    "version": "1.0.1",
     "main": "build/index.js",
     "author": "Naviocean <navi.ocean@outlook.com>",
     "license": "MIT",
