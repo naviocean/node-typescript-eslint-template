@@ -46,11 +46,14 @@
     }
   },
   "lint-staged": {
-    "*": [
-      "prettier --write"
+    "*.{js,jsx,ts,tsx}": [
+      "prettier --write",
+      "eslint --fix",
+      "git add"
     ],
-    "*.{js,ts,tsx}": [
-      "eslint --fix"
+    "*.{html,css,less,ejs,json}": [
+      "prettier --write",
+      "git add"
     ]
   }
 }
