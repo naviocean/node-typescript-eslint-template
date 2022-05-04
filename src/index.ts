@@ -12,5 +12,5 @@ const wait = (ms: number): Promise<void> => {
 (async () => {
     log(green('Hello world!'));
     await wait(1000);
-    log('🚀🔥🚀🔥🚀🔥🚀🔥');
+    log('🚀🔥');
 })();
