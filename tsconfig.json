@@ -4,8 +4,6 @@
         "target": "ESNext",
         "module": "commonjs",
         "sourceMap": true,
-        "outDir": "./build",
-        "rootDir": "./src",
         "strict": true,
         "noFallthroughCasesInSwitch": true,
         // TODO: Typescript 4.3
@@ -18,6 +16,11 @@
         "moduleResolution": "node",
         "allowSyntheticDefaultImports": true,
         "esModuleInterop": true,
-        "forceConsistentCasingInFileNames": true
+        "forceConsistentCasingInFileNames": true,
+        "skipLibCheck": true,
+        "importHelpers": true,
+        "experimentalDecorators": true,
+        "outDir": "./build",
+        "rootDir": "./src"
     }
 }
