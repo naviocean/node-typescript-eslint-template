@@ -29,7 +29,7 @@
         "@commitlint/config-conventional": "^17.2.0",
         "@types/node": "18.11.9",
         "@typescript-eslint/eslint-plugin": "5.38.1",
-        "@typescript-eslint/parser": "5.42.0",
+        "@typescript-eslint/parser": "5.45.0",
         "eslint": "8.26.0",
         "eslint-config-airbnb-typescript": "17.0.0",
         "eslint-config-prettier": "8.5.0",
